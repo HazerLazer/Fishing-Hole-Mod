@@ -1,0 +1,8 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	FishingHole: {
+		DisplayName: Fishin' Hole
+		Tooltip: Makes an optimal fishing spot for any aspiring fisherman
+	}
+}
